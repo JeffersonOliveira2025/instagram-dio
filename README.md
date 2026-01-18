@@ -6,5 +6,5 @@ Esse é um repositório Flexbox dá interface de login do Instagram!
 Os requisitos são:
 🌐 HTML básico
 🎨 CSS básico
-⚡ Javascript básico
+
 🚀 Let's code! 🚀
